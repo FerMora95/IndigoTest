@@ -1,0 +1,7 @@
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\Largest_palindrome_product\bin\Debug\Largest_palindrome_product.exe.config
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\Largest_palindrome_product\bin\Debug\Largest_palindrome_product.exe
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\Largest_palindrome_product\bin\Debug\Largest_palindrome_product.pdb
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\Largest_palindrome_product\obj\Debug\Largest_palindrome_product.csprojAssemblyReference.cache
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\Largest_palindrome_product\obj\Debug\Largest_palindrome_product.csproj.CoreCompileInputs.cache
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\Largest_palindrome_product\obj\Debug\Largest_palindrome_product.exe
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\Largest_palindrome_product\obj\Debug\Largest_palindrome_product.pdb

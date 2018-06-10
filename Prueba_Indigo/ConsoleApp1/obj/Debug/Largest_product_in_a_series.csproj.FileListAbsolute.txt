@@ -1,0 +1,7 @@
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Largest_product_in_a_series.csprojAssemblyReference.cache
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Largest_product_in_a_series.csproj.CoreCompileInputs.cache
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\FerMoraYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
