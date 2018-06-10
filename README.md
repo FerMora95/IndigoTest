@@ -1,13 +1,13 @@
 IndigoTest
 ====================
-IndigoTest es el proyecto en donde se encuentra mi prueba solicitada 
+IndigoTest es el proyecto en donde se encuentra la prueba solicitada sobre EjerciciosLógica.Net 
 
 Includes
 ====================
-- Proyecto de palindromo llamado: "Largest product in a series"
-- Proyecto de series numericas llamado: "Largest palindrome product"
+- Proyecto de palíndromo llamado: "Largest product in a series"
+- Proyecto de series numéricas llamado: "Largest palindrome product"
 - Pruebas unitarias del proyecto del palindromo llamado: "UnitTest_Largest_palindrome"
-- Pruebas unitarias del proyecto de series numericas llamado: "UnitTest_Largest_product"
+- Pruebas unitarias del proyecto de series numéricas llamado: "UnitTest_Largest_product"
 
 Built With
 ===================
